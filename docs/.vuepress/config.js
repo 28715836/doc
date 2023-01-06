@@ -1,5 +1,5 @@
 module.exports = {
-	base: "/base/",
+	base: "/doc/",
     title: "猜猜我是谁",
     description: "使用流行技术栈快速创建商业级后台管理系统-BuildAdmin是基于TP6、Vue3.x、Typescript、Vite、Pinia、Element plus等的开源后台系统",
     head: [
